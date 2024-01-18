@@ -9,3 +9,4 @@ heights to centimeters in a separate list using:
 1) Nested Interactive loop.
 2) List comprehensions
 Code File -nndl_icp2_Spring24.ipynb Document- nndl_icp2_Spring24.DOCX
+video: https://drive.google.com/file/d/12pKCGe40ZyftsisGqxRVhUhr5DdMO-md/view?usp=sharing
